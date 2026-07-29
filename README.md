@@ -100,7 +100,7 @@ Stay tuned for upcoming features and improvements!
 
 ## 📄 License
 
-This project is proprietary software. All rights reserved.
+This project is licensed under the MIT license. 
 
 ---
 
